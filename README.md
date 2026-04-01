@@ -43,4 +43,8 @@ After extraction:
 
 ## Disclaimer
 
-Use this tool only for content you are allowed to access and export. You are responsible for complying with the target site's terms and applicable laws.
+This project is provided for educational and personal-use scenarios only.
+
+Users must log in with their own account and are responsible for complying with the target website's terms of service, copyright rules, and applicable laws. Do not use this tool to distribute unauthorized content, bypass paid access, or share private authentication data such as tokens or cookies.
+
+The author does not provide any built-in account, token, or copyrighted novel content, and is not responsible for misuse by end users.
