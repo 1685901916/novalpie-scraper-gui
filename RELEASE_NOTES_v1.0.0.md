@@ -1,23 +1,23 @@
-## Novelpia Scraper GUI v1.0.0
+## Novelpia 爬虫 GUI v1.0.0
 
-Windows desktop release for exporting accessible Novelpia book content after user login.
+Windows 桌面版发布，用于在用户自行登录后导出可访问的 Novelpia 书籍内容。
 
-### Included
+### 包含内容
 
-- GUI browser-assisted login flow
-- Chapter API based catalog collection
-- TXT / EPUB / JSON export
-- Cover download
-- EPUB image embedding
+- GUI 图形界面登录辅助流程
+- 基于章节接口的目录采集
+- TXT / EPUB / JSON 导出
+- 封面下载
+- EPUB 正文插图写入
 
-### Usage
+### 使用方法
 
-1. Download the Windows zip package
-2. Extract it to any folder
-3. Run `启动小说爬虫GUI_v2.bat`
-4. Log in through the opened browser
-5. Export the selected book
+1. 下载 Windows 压缩包
+2. 解压到任意目录
+3. 运行 `启动小说爬虫GUI_v2.bat`
+4. 在打开的浏览器中手动登录
+5. 开始导出
 
-### Disclaimer
+### 免责声明
 
-This tool requires users to log in with their own account and must only be used in compliance with the target site's terms, copyright rules, and applicable laws.
+本工具要求用户使用自己的账号登录，并且只能在符合目标网站条款、版权规则及适用法律法规的前提下使用。
